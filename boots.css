@@ -1,0 +1,19 @@
+.content{
+    max-width: 100%;
+    height: auto;
+    background-color: bisque;
+}
+.main{
+    
+}
+button{
+    background-color: green;
+    color: white;
+    
+}
+
+.cards{
+    display: flex;
+    gap: 30px;
+    margin-left: 90px;
+}
